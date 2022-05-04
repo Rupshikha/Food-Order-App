@@ -1,5 +1,5 @@
 # Food-Ordering-App
- food ordering app and features like adding items to the cart and bill generation feature.
+ A food ordering app and features like adding items to the cart and bill generation feature.
  ## Technologies Used:
 * ReactJS
 * Firebase
